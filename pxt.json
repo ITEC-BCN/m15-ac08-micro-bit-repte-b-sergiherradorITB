@@ -1,15 +1,17 @@
 {
-    "name": "microbit-template-repo",
+    "name": "RepteB-Sergi",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "microbit-template-repo": "github:raimonizard/microbit-template-repo#1eca371cfaba363a0a7e4a4ad4f61f1b094662a5"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
